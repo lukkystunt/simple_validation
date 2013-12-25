@@ -190,7 +190,7 @@ $(document).ready(function () {
     }
 
    $(".cancel").bind ('click', function(){
-        //
+        //form id
         parent_id = $(this).parents('.modal').attr('id');
        if(xhr && xhr.readystate != 4){
             bootbox.confirm('You Currently Have A Process In Progress','Continue','Stop', function (confirm) {
