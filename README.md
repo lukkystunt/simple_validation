@@ -1,4 +1,4 @@
 simple_validation
 =================
 
-a fast flexible form vaildation 
+A fast flexible form vaildation using jquery
